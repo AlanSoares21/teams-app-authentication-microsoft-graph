@@ -1,0 +1,10 @@
+{
+  "generator-teams": {
+    "promptValues": {
+      "developer": "sample",
+      "unitTestsEnabled": false,
+      "useAzureAppInsights": false
+    },
+    "libraryName": "teamsAppAuthenticationMicrosoftGraph"
+  }
+}
